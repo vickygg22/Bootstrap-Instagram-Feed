@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+  }
+  .textOfHeader {
+    width: 350px;
+  }
+.secondpost {
+    margin-top: 20px;
+}
